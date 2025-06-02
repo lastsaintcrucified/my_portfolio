@@ -85,7 +85,7 @@ const Header = () => {
 					className='hidden md:inline-flex'
 				>
 					<a
-						href='/resume.pdf'
+						href='/latest_Cv.pdf'
 						target='_blank'
 						rel='noopener noreferrer'
 					>

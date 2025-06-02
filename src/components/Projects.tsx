@@ -31,7 +31,7 @@ const Projects = () => {
 			title: "Fix-It | Full-Stack Service Marketplace",
 			description:
 				"A full-stack service providing platform connct service provoder and clients.",
-			image: "/fix.PNG",
+			image: "/my_portfolio/fix.PNG",
 			tags: [
 				"NextJs",
 				"Typescript",
@@ -48,7 +48,7 @@ const Projects = () => {
 			title: "Learnhub | E-learning platform",
 			description:
 				"A responsive learning platform where instructors can upload lessons and students can enroll in various courses. Role based route protection is enabled from backend.",
-			image: "/learn.PNG",
+			image: "/my_portfolio/learn.PNG",
 			tags: [
 				"NextJs",
 				"TypeScript",
@@ -67,7 +67,7 @@ const Projects = () => {
 			title: "Windows 10 | Windows 10 clone",
 			description:
 				"A simple clone of windows 10 UI. Calculator, text editor etc are integrated.",
-			image: "/window.PNG",
+			image: "/my_portfolio/window.PNG",
 			tags: ["NextJs", "TypeScript", "Tailwind", "Shadcn"],
 			demoUrl: "https://windows10-beta.vercel.app/",
 			githubUrl: "https://github.com/lastsaintcrucified/windows10",
@@ -101,7 +101,7 @@ const Projects = () => {
 			id: 6,
 			title: "Bro Chat  (Messaging App) ",
 			description: "A messaging app between users of its own",
-			image: "/chat.PNG",
+			image: "/my_portfolio/chat.PNG",
 			tags: ["ReactJs", "Firebase"],
 			demoUrl: "https://react-fb-chat.firebaseapp.com/",
 			githubUrl: "https://github.com/lastsaintcrucified/react-fb-chat",

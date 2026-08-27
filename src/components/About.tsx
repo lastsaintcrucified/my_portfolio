@@ -12,22 +12,22 @@ import {
 const About = () => {
 	const skills = [
 		{
-			name: "Frontend Development",
+			name: "Full-stack Development",
 			icon: Layout,
 			description:
-				" Next.js, React, React Native, Angular, Ionic,Tailwind CSS, ShadCN ",
+				" Next.js, Angular, Tailwind CSS, Node.js, Express.js, Django REST, Firebase, MongoDB ",
 		},
 		{
-			name: "Backend Development",
+			name: "Software Quality Assurance",
 			icon: Server,
 			description:
-				"Node.js, Prisma, Postgresql, NestJs, Express.js, Django REST, Firebase, MongoDB ",
+				" Playwright, Selenium, JavaScript, TypeScript, API-Testing (Postman),  End-to-End Testing, Jira & Git",
 		},
 		{
 			name: "Mobile Development",
 			icon: Smartphone,
 			description:
-				"Building cross-platform mobile applications with React native, Expo",
+				"Building cross-platform mobile applications with React native, Expo, Ionic",
 		},
 		{
 			name: "Database Design",

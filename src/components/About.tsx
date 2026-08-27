@@ -62,17 +62,17 @@ const About = () => {
 				<div>
 					<h3 className='text-2xl font-bold mb-4'>Who I Am</h3>
 					<p className='text-muted-foreground mb-4'>
-						I am a results-driven Full-Stack Developer with 5+ years of
-						experience building scalable web and mobile applications.
-						Specialized in Next.js, React Native, and Firebase, with a strong
-						focus on performance optimization, modular architecture, and
-						real-time systems. Proven track record of delivering
-						production-ready solutions for startups and enterprises.
+						’m a Software QA / Automation Engineer with a software development background and hands-on experience in manual testing, API testing, and test automation.
+My current focus is building my career in Software Quality Assurance, particularly QA Automation and SQA roles where I can combine testing fundamentals with my programming and development experience.
+I have hands-on experience with Manual Testing, Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, API Testing, Test Case Design, Bug Reporting, Defect Tracking, SDLC, STLC, Agile, Postman, Jira, Git, Playwright, and Selenium.
+For test automation, I have built practical automation projects using Playwright and Selenium, including Todo application automation with Playwright and Demo Web Shop automation with Selenium. These projects have helped me develop practical experience with automated test execution, locators, assertions, test organization, and browser-based testing.
+My software development background is another strength I bring to QA. 
 					</p>
 					<p className='text-muted-foreground'>
-						When I'm not coding, you can find me exploring new technologies, or
-						sharing knowledge with the developer community through articles and
-						tutorials.
+						I have worked with React, Next.js, Angular, Node.js, Express.js, NextJS, TypeScript, and other modern development technologies. At Panacea PIT, I worked with Angular and RxJS, developed reusable component libraries, built real-time dashboards, and worked within an Agile development environment using Git and Jira.
+I enjoy finding defects, understanding why they happen, creating reliable test scenarios, and improving product quality through systematic testing and automation.
+I’m currently looking for Junior SQA Engineer, QA Engineer, QA Automation Engineer, Software Test Engineer, or Junior SDET opportunities where I can contribute, learn from experienced QA professionals, and grow into a strong automation-focused testing professional.
+Open to opportunities, collaborations, and conversations with QA/SQA professionals and hiring teams.
 					</p>
 				</div>
 

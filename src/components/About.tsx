@@ -62,7 +62,7 @@ const About = () => {
 				<div>
 					<h3 className='text-2xl font-bold mb-4'>Who I Am</h3>
 					<p className='text-muted-foreground mb-4'>
-						’m a Software QA / Automation Engineer with a software development background and hands-on experience in manual testing, API testing, and test automation.
+						I’m a Software QA / Automation Engineer with a software development background and hands-on experience in manual testing, API testing, and test automation.
 My current focus is building my career in Software Quality Assurance, particularly QA Automation and SQA roles where I can combine testing fundamentals with my programming and development experience.
 I have hands-on experience with Manual Testing, Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, API Testing, Test Case Design, Bug Reporting, Defect Tracking, SDLC, STLC, Agile, Postman, Jira, Git, Playwright, and Selenium.
 For test automation, I have built practical automation projects using Playwright and Selenium, including Todo application automation with Playwright and Demo Web Shop automation with Selenium. These projects have helped me develop practical experience with automated test execution, locators, assertions, test organization, and browser-based testing.

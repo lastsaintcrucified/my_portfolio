@@ -64,6 +64,25 @@ const Projects = () => {
 		},
 		{
 			id: 3,
+			title: "LifeOs |  Personal Life Admin Dashboard ",
+			description:
+				"Architected a full-stack SaaS application helping users manage bills, subscriptions, appointments, document expirations,renewals, recurring payments, and deadlines in one place.",
+			image: "/my_portfolio/lifeOs.PNG",
+			tags: [
+				"NextJs",
+				"TypeScript",
+				"Tailwind",
+				"NestJs",
+				"Supabase",
+				"Render",
+				"Vercel",
+			],
+			demoUrl: "https://lifeos-7lzm3bhe3-md-towhidul-islam-bhys-projects.vercel.app",
+			githubUrl: "https://github.com/lastsaintcrucified/lifeos",
+			featured: true,
+		},
+		{
+			id: 4,
 			title: "Windows 10 | Windows 10 clone",
 			description:
 				"A simple clone of windows 10 UI. Calculator, text editor etc are integrated.",
@@ -74,7 +93,7 @@ const Projects = () => {
 			featured: false,
 		},
 		{
-			id: 4,
+			id: 5,
 			title:
 				"Project management (Manaage projects) | Manage and assign projects",
 			description:
@@ -87,7 +106,7 @@ const Projects = () => {
 			featured: true,
 		},
 		{
-			id: 5,
+			id: 6,
 			title: "E-commerce | React native",
 			description: "E-cpmmerce app built on React native",
 			image:
@@ -98,7 +117,7 @@ const Projects = () => {
 			featured: true,
 		},
 		{
-			id: 6,
+			id: 7,
 			title: "Bro Chat  (Messaging App) ",
 			description: "A messaging app between users of its own",
 			image: "/my_portfolio/chat.PNG",
@@ -108,25 +127,25 @@ const Projects = () => {
 			featured: true,
 		},
 		{
-			id: 7,
-			title: "Uber Clone | React native",
-			description: "Clone of Uber app",
+			id: 8,
+			title: "Playwright Automation | Web shop",
+			description: "Engineered an end-to-end automated test suite in Playwright covering the full order flow of a demo e-commerce shop",
 			image:
-				"https://images.unsplash.com/photo-1554672408-730436b60dde?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			tags: ["React Native", "Redux", "Expo"],
-			demoUrl: "https://github.com/lastsaintcrucified/native-shop-frontend",
-			githubUrl: "https://github.com/lastsaintcrucified/native-shop-frontend",
+				"https://images.unsplash.com/photo-1618986919307-ed52427d0bd4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHF1YWxpdHklMjBhc3N1cmFuY2V8ZW58MHx8MHx8fDA%3D",
+			tags: ["Javascript", "Playwright"],
+			demoUrl: "https://github.com/lastsaintcrucified/playwright_toDos_automation",
+			githubUrl: "https://github.com/lastsaintcrucified/playwright_toDos_automation",
 			featured: true,
 		},
 		{
-			id: 8,
-			title: "Repeat (Find favourite restaurant) | React native",
-			description: "Finding restaurants nearby",
+			id: 9,
+			title: "Selenium Automation | Demo Web-Shop Test Suite",
+			description: "Built a Selenium-based automation project to validate common e-commerce workflows through repeatable functional test scripts.",
 			image:
-				"https://images.unsplash.com/photo-1601972602288-3be527b4f18a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			tags: ["React Native", "Redux", "Expo"],
-			demoUrl: "https://github.com/lastsaintcrucified/repeat",
-			githubUrl: "https://github.com/lastsaintcrucified/repeat",
+				"https://images.unsplash.com/photo-1618986919307-ed52427d0bd4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHF1YWxpdHklMjBhc3N1cmFuY2V8ZW58MHx8MHx8fDA%3D",
+			tags: ["Javascript", "Playwright"],
+			demoUrl: "https://github.com/lastsaintcrucified/selenium",
+			githubUrl: "https://github.com/lastsaintcrucified/selenium",
 			featured: true,
 		},
 	];

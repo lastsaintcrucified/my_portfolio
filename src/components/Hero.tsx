@@ -18,14 +18,14 @@ const Hero = () => {
 						className='text-2xl md:text-3xl lg:text-4xl font-medium mb-6 text-muted-foreground animate-fade-in'
 						style={{ animationDelay: "0.2s" }}
 					>
-						Full Stack Developer
+						Full Stack Developer & QA Engineer
 					</h2>
 					<p
 						className='text-lg mb-8 max-w-2xl text-muted-foreground animate-fade-in'
 						style={{ animationDelay: "0.3s" }}
 					>
 						I build exceptional digital experiences that make an impact. Focused
-						on creating elegant, functional solutions to complex problems.
+						on creating elegant, functional solutions to complex problems to ensure quality.
 					</p>
 					<div
 						className='flex flex-wrap gap-4 animate-fade-in'
